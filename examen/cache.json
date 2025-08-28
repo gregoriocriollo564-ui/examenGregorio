@@ -1,1 +1,14 @@
-[]
+[{
+    "address": {
+        "city": "Gwenborough",
+        "street": "Kulas Light"
+    },
+    "phone": "1-770-736-8031 x56442",
+    "name": "Leanne Graham",
+    "company": {
+        "bs": "Romaguera-Crona",
+        "catchPhrase": "Romaguera-Crona",
+        "name": "Romaguera-Crona"
+    },
+    "email": "Sincere@april.biz"
+}]
